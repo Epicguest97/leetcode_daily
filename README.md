@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Epicguest97/leetcode_daily/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Epicguest97/leetcode_daily/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1408-string-matching-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1408-string-matching-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Epicguest97/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Epicguest97/leetcode_daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Epicguest97/leetcode_daily/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/1143-longest-common-subsequence) |
+| [1408-string-matching-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Epicguest97/leetcode_daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Epicguest97/leetcode_daily/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Epicguest97/leetcode_daily/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
