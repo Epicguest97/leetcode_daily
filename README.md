@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Epicguest97/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/Epicguest97/leetcode_daily/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Epicguest97/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Epicguest97/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Epicguest97/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3333-find-the-original-typed-string-ii) |
 | [3355-zero-array-transformation-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3355-zero-array-transformation-i) |
 | [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
