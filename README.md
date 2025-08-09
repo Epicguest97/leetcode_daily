@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Epicguest97/leetcode_daily/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Epicguest97/leetcode_daily/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0509-fibonacci-number) |
 | [0808-soup-servings](https://github.com/Epicguest97/leetcode_daily/tree/master/0808-soup-servings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Epicguest97/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Epicguest97/leetcode_daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Epicguest97/leetcode_daily/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Epicguest97/leetcode_daily/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Epicguest97/leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Epicguest97/leetcode_daily/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Epicguest97/leetcode_daily/tree/master/0455-assign-cookies) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Epicguest97/leetcode_daily/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Epicguest97/leetcode_daily/tree/master/0704-binary-search) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Epicguest97/leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Epicguest97/leetcode_daily/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Epicguest97/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
@@ -284,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Epicguest97/leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Epicguest97/leetcode_daily/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Epicguest97/leetcode_daily/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
