@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Epicguest97/leetcode_daily/tree/master/0152-maximum-product-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0808-soup-servings](https://github.com/Epicguest97/leetcode_daily/tree/master/0808-soup-servings) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Epicguest97/leetcode_daily/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Epicguest97/leetcode_daily/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Epicguest97/leetcode_daily/tree/master/0217-contains-duplicate) |
+| [0416-partition-equal-subset-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Epicguest97/leetcode_daily/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
