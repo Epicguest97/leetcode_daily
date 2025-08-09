@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Epicguest97/leetcode_daily/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/Epicguest97/leetcode_daily/tree/master/0860-lemonade-change) |
 | [0909-snakes-and-ladders](https://github.com/Epicguest97/leetcode_daily/tree/master/0909-snakes-and-ladders) |
+| [0916-word-subsets](https://github.com/Epicguest97/leetcode_daily/tree/master/0916-word-subsets) |
 | [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Epicguest97/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Epicguest97/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Epicguest97/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Epicguest97/leetcode_daily/tree/master/0796-rotate-string) |
+| [0916-word-subsets](https://github.com/Epicguest97/leetcode_daily/tree/master/0916-word-subsets) |
 | [1021-remove-outermost-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Epicguest97/leetcode_daily/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/1143-longest-common-subsequence) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0781-rabbits-in-forest](https://github.com/Epicguest97/leetcode_daily/tree/master/0781-rabbits-in-forest) |
+| [0916-word-subsets](https://github.com/Epicguest97/leetcode_daily/tree/master/0916-word-subsets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/Epicguest97/leetcode_daily/tree/master/1400-construct-k-palindrome-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
