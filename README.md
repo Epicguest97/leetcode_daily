@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3136-valid-word](https://github.com/Epicguest97/leetcode_daily/tree/master/3136-valid-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3330-find-the-original-typed-string-i) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3333-find-the-original-typed-string-ii) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Epicguest97/leetcode_daily/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Epicguest97/leetcode_daily/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Epicguest97/leetcode_daily/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
 |  |
