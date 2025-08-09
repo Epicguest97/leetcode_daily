@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Epicguest97/leetcode_daily/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Epicguest97/leetcode_daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Epicguest97/leetcode_daily/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Epicguest97/leetcode_daily/tree/master/0231-power-of-two) |
 | [0808-soup-servings](https://github.com/Epicguest97/leetcode_daily/tree/master/0808-soup-servings) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Epicguest97/leetcode_daily/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Epicguest97/leetcode_daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0120-triangle) |
