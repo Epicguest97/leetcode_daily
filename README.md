@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2145-count-the-hidden-sequences](https://github.com/Epicguest97/leetcode_daily/tree/master/2145-count-the-hidden-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Epicguest97/leetcode_daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Epicguest97/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
+| [2145-count-the-hidden-sequences](https://github.com/Epicguest97/leetcode_daily/tree/master/2145-count-the-hidden-sequences) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3333-find-the-original-typed-string-ii) |
 | [3355-zero-array-transformation-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3355-zero-array-transformation-i) |
 | [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
