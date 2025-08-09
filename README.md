@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Epicguest97/leetcode_daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0509-fibonacci-number) |
+| [0781-rabbits-in-forest](https://github.com/Epicguest97/leetcode_daily/tree/master/0781-rabbits-in-forest) |
 | [0808-soup-servings](https://github.com/Epicguest97/leetcode_daily/tree/master/0808-soup-servings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Epicguest97/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Epicguest97/leetcode_daily/tree/master/1903-largest-odd-number-in-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/Epicguest97/leetcode_daily/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
+| [0781-rabbits-in-forest](https://github.com/Epicguest97/leetcode_daily/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/Epicguest97/leetcode_daily/tree/master/0860-lemonade-change) |
 | [0909-snakes-and-ladders](https://github.com/Epicguest97/leetcode_daily/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Epicguest97/leetcode_daily/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Epicguest97/leetcode_daily/tree/master/0455-assign-cookies) |
+| [0781-rabbits-in-forest](https://github.com/Epicguest97/leetcode_daily/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/Epicguest97/leetcode_daily/tree/master/0860-lemonade-change) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Epicguest97/leetcode_daily/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Epicguest97/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0781-rabbits-in-forest](https://github.com/Epicguest97/leetcode_daily/tree/master/0781-rabbits-in-forest) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/1865-finding-pairs-with-a-certain-sum) |
