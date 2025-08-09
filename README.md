@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Epicguest97/leetcode_daily/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Epicguest97/leetcode_daily/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Epicguest97/leetcode_daily/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Epicguest97/leetcode_daily/tree/master/0062-unique-paths) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Epicguest97/leetcode_daily/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Epicguest97/leetcode_daily/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Epicguest97/leetcode_daily/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Epicguest97/leetcode_daily/tree/master/0010-regular-expression-matching) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Epicguest97/leetcode_daily/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Epicguest97/leetcode_daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Epicguest97/leetcode_daily/tree/master/0016-3sum-closest) |
