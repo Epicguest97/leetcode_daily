@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Epicguest97/leetcode_daily/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/1143-longest-common-subsequence) |
+| [1400-construct-k-palindrome-strings](https://github.com/Epicguest97/leetcode_daily/tree/master/1400-construct-k-palindrome-strings) |
 | [1408-string-matching-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Epicguest97/leetcode_daily/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/Epicguest97/leetcode_daily/tree/master/0860-lemonade-change) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Epicguest97/leetcode_daily/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1400-construct-k-palindrome-strings](https://github.com/Epicguest97/leetcode_daily/tree/master/1400-construct-k-palindrome-strings) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Epicguest97/leetcode_daily/tree/master/1903-largest-odd-number-in-string) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0781-rabbits-in-forest](https://github.com/Epicguest97/leetcode_daily/tree/master/0781-rabbits-in-forest) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1400-construct-k-palindrome-strings](https://github.com/Epicguest97/leetcode_daily/tree/master/1400-construct-k-palindrome-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1400-construct-k-palindrome-strings](https://github.com/Epicguest97/leetcode_daily/tree/master/1400-construct-k-palindrome-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
