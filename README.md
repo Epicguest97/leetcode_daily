@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0118-pascals-triangle) |
 | [0808-soup-servings](https://github.com/Epicguest97/leetcode_daily/tree/master/0808-soup-servings) |
+| [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Epicguest97/leetcode_daily/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 ## Probability and Statistics
 |  |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Epicguest97/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Memoization
+|  |
+| ------- |
+| [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Epicguest97/leetcode_daily/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
