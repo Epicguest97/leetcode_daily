@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Epicguest97/leetcode_daily/tree/master/0231-power-of-two) |
 | [0808-soup-servings](https://github.com/Epicguest97/leetcode_daily/tree/master/0808-soup-servings) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Epicguest97/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Epicguest97/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Epicguest97/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
