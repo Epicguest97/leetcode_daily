@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Epicguest97/leetcode_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Epicguest97/leetcode_daily/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Epicguest97/leetcode_daily/tree/master/0152-maximum-product-subarray) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Epicguest97/leetcode_daily/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Epicguest97/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Epicguest97/leetcode_daily/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Epicguest97/leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Epicguest97/leetcode_daily/tree/master/0205-isomorphic-strings) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Epicguest97/leetcode_daily/tree/master/0547-number-of-provinces) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Epicguest97/leetcode_daily/tree/master/1061-lexicographically-smallest-equivalent-string) |
 ## Graph
