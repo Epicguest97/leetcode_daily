@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Epicguest97/leetcode_daily/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Epicguest97/leetcode_daily/tree/master/0542-01-matrix) |
 | [0808-soup-servings](https://github.com/Epicguest97/leetcode_daily/tree/master/0808-soup-servings) |
 | [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/1143-longest-common-subsequence) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Epicguest97/leetcode_daily/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Epicguest97/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/Epicguest97/leetcode_daily/tree/master/0704-binary-search) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Epicguest97/leetcode_daily/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Epicguest97/leetcode_daily/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Epicguest97/leetcode_daily/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Epicguest97/leetcode_daily/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Epicguest97/leetcode_daily/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Epicguest97/leetcode_daily/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/Epicguest97/leetcode_daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
 | [0909-snakes-and-ladders](https://github.com/Epicguest97/leetcode_daily/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
