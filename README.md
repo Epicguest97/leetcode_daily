@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Epicguest97/leetcode_daily/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Epicguest97/leetcode_daily/tree/master/0860-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Epicguest97/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Epicguest97/leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Epicguest97/leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Epicguest97/leetcode_daily/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Epicguest97/leetcode_daily/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Quickselect
 |  |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Matrix
