@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Epicguest97/leetcode_daily/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Epicguest97/leetcode_daily/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Epicguest97/leetcode_daily/tree/master/0547-number-of-provinces) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Epicguest97/leetcode_daily/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Epicguest97/leetcode_daily/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Design
 |  |
 | ------- |
