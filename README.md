@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Epicguest97/leetcode_daily/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0808-soup-servings](https://github.com/Epicguest97/leetcode_daily/tree/master/0808-soup-servings) |
+| [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Epicguest97/leetcode_daily/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Epicguest97/leetcode_daily/tree/master/0860-lemonade-change) |
+| [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Epicguest97/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Epicguest97/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Epicguest97/leetcode_daily/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Epicguest97/leetcode_daily/tree/master/0994-rotting-oranges) |
 ## Union Find
 |  |
