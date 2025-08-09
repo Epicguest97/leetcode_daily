@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Epicguest97/leetcode_daily/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/2929-distribute-candies-among-children-ii) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3355-zero-array-transformation-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Epicguest97/leetcode_daily/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Epicguest97/leetcode_daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Epicguest97/leetcode_daily/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Epicguest97/leetcode_daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
