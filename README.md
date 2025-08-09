@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/1922-count-good-numbers) |
 | [2081-sum-of-k-mirror-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/2081-sum-of-k-mirror-numbers) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Epicguest97/leetcode_daily/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/2929-distribute-candies-among-children-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
