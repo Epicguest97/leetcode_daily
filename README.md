@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2081-sum-of-k-mirror-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/2081-sum-of-k-mirror-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Epicguest97/leetcode_daily/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Epicguest97/leetcode_daily/tree/master/0062-unique-paths) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Backtracking
 |  |
 | ------- |
