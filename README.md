@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Epicguest97/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Epicguest97/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/Epicguest97/leetcode_daily/tree/master/1073-number-of-enclaves) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Epicguest97/leetcode_daily/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Epicguest97/leetcode_daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Epicguest97/leetcode_daily/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Epicguest97/leetcode_daily/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Epicguest97/leetcode_daily/tree/master/1073-number-of-enclaves) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Epicguest97/leetcode_daily/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
 | [0909-snakes-and-ladders](https://github.com/Epicguest97/leetcode_daily/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Epicguest97/leetcode_daily/tree/master/0994-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Epicguest97/leetcode_daily/tree/master/1073-number-of-enclaves) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Epicguest97/leetcode_daily/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Epicguest97/leetcode_daily/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Epicguest97/leetcode_daily/tree/master/0994-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Epicguest97/leetcode_daily/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Epicguest97/leetcode_daily/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Epicguest97/leetcode_daily/tree/master/0547-number-of-provinces) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Epicguest97/leetcode_daily/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1073-number-of-enclaves](https://github.com/Epicguest97/leetcode_daily/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
