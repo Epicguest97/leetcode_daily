@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/Epicguest97/leetcode_daily/tree/master/2683-neighboring-bitwise-xor) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3355-zero-array-transformation-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3355-zero-array-transformation-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Epicguest97/leetcode_daily/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Epicguest97/leetcode_daily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3136-valid-word](https://github.com/Epicguest97/leetcode_daily/tree/master/3136-valid-word) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Epicguest97/leetcode_daily/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -631,16 +633,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Epicguest97/leetcode_daily/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1408-string-matching-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Epicguest97/leetcode_daily/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Epicguest97/leetcode_daily/tree/master/0572-subtree-of-another-tree) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Epicguest97/leetcode_daily/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Epicguest97/leetcode_daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -649,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Epicguest97/leetcode_daily/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
