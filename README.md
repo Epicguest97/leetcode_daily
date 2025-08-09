@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Epicguest97/leetcode_daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Epicguest97/leetcode_daily/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Epicguest97/leetcode_daily/tree/master/0206-reverse-linked-list) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Epicguest97/leetcode_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Epicguest97/leetcode_daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Epicguest97/leetcode_daily/tree/master/0141-linked-list-cycle) |
