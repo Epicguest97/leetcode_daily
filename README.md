@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Epicguest97/leetcode_daily/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/Epicguest97/leetcode_daily/tree/master/2683-neighboring-bitwise-xor) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Epicguest97/leetcode_daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Epicguest97/leetcode_daily/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Epicguest97/leetcode_daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Epicguest97/leetcode_daily/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Epicguest97/leetcode_daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
