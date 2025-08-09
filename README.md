@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Epicguest97/leetcode_daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Epicguest97/leetcode_daily/tree/master/0067-add-binary) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Epicguest97/leetcode_daily/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Epicguest97/leetcode_daily/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Epicguest97/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Epicguest97/leetcode_daily/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
