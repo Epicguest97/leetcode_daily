@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3136-valid-word](https://github.com/Epicguest97/leetcode_daily/tree/master/3136-valid-word) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Epicguest97/leetcode_daily/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Epicguest97/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Epicguest97/leetcode_daily/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Epicguest97/leetcode_daily/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Epicguest97/leetcode_daily/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
