@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Epicguest97/leetcode_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0328-odd-even-linked-list](https://github.com/Epicguest97/leetcode_daily/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Epicguest97/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Epicguest97/leetcode_daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Memoization
