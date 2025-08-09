@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Epicguest97/leetcode_daily/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Epicguest97/leetcode_daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Epicguest97/leetcode_daily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Epicguest97/leetcode_daily/tree/master/1903-largest-odd-number-in-string) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Epicguest97/leetcode_daily/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Epicguest97/leetcode_daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Epicguest97/leetcode_daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Epicguest97/leetcode_daily/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Epicguest97/leetcode_daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Epicguest97/leetcode_daily/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Simulation
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Epicguest97/leetcode_daily/tree/master/1400-construct-k-palindrome-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Epicguest97/leetcode_daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Epicguest97/leetcode_daily/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
