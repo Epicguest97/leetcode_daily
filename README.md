@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0118-pascals-triangle) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/2210-count-hills-and-valleys-in-an-array) |
+## String
+|  |
+| ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
+## Stack
+|  |
+| ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
