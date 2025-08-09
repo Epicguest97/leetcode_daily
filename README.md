@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Epicguest97/leetcode_daily/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Epicguest97/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Epicguest97/leetcode_daily/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0063-unique-paths-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Epicguest97/leetcode_daily/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Epicguest97/leetcode_daily/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Epicguest97/leetcode_daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Epicguest97/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Epicguest97/leetcode_daily/tree/master/0058-length-of-last-word) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Epicguest97/leetcode_daily/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Epicguest97/leetcode_daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Bucket Sort
