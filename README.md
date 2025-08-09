@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Epicguest97/leetcode_daily/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Epicguest97/leetcode_daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Epicguest97/leetcode_daily/tree/master/0067-add-binary) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
