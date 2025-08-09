@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Epicguest97/leetcode_daily/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Epicguest97/leetcode_daily/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
