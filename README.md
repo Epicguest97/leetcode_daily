@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Epicguest97/leetcode_daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Epicguest97/leetcode_daily/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Epicguest97/leetcode_daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0509-fibonacci-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Epicguest97/leetcode_daily/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Epicguest97/leetcode_daily/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Epicguest97/leetcode_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Epicguest97/leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Epicguest97/leetcode_daily/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Epicguest97/leetcode_daily/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Epicguest97/leetcode_daily/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Epicguest97/leetcode_daily/tree/master/0455-assign-cookies) |
