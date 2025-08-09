@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Epicguest97/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Epicguest97/leetcode_daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Epicguest97/leetcode_daily/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/Epicguest97/leetcode_daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Epicguest97/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Epicguest97/leetcode_daily/tree/master/0796-rotate-string) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Epicguest97/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Epicguest97/leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/Epicguest97/leetcode_daily/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Epicguest97/leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Epicguest97/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
