@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Epicguest97/leetcode_daily/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3333-find-the-original-typed-string-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3333-find-the-original-typed-string-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3136-valid-word](https://github.com/Epicguest97/leetcode_daily/tree/master/3136-valid-word) |
+| [3333-find-the-original-typed-string-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3333-find-the-original-typed-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/1865-finding-pairs-with-a-certain-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3333-find-the-original-typed-string-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3333-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
