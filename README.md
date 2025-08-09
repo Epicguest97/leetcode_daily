@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Epicguest97/leetcode_daily/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Epicguest97/leetcode_daily/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Epicguest97/leetcode_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Epicguest97/leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Epicguest97/leetcode_daily/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Epicguest97/leetcode_daily/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Epicguest97/leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0229-majority-element-ii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Epicguest97/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Epicguest97/leetcode_daily/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Epicguest97/leetcode_daily/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Epicguest97/leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0229-majority-element-ii) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Epicguest97/leetcode_daily/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Epicguest97/leetcode_daily/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Epicguest97/leetcode_daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
