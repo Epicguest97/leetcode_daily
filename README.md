@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Epicguest97/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Epicguest97/leetcode_daily/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Epicguest97/leetcode_daily/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Epicguest97/leetcode_daily/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Epicguest97/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
