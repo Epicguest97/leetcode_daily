@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Epicguest97/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Epicguest97/leetcode_daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Epicguest97/leetcode_daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Epicguest97/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Epicguest97/leetcode_daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Epicguest97/leetcode_daily/tree/master/1903-largest-odd-number-in-string) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Epicguest97/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Epicguest97/leetcode_daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-count-the-hidden-sequences](https://github.com/Epicguest97/leetcode_daily/tree/master/2145-count-the-hidden-sequences) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3333-find-the-original-typed-string-ii) |
 | [3355-zero-array-transformation-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3355-zero-array-transformation-i) |
