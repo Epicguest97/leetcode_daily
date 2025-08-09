@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/1922-count-good-numbers) |
 | [2081-sum-of-k-mirror-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/2081-sum-of-k-mirror-numbers) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Epicguest97/leetcode_daily/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2929-distribute-candies-among-children-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/2929-distribute-candies-among-children-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2081-sum-of-k-mirror-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/2081-sum-of-k-mirror-numbers) |
+| [2929-distribute-candies-among-children-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/2929-distribute-candies-among-children-ii) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Epicguest97/leetcode_daily/tree/master/0062-unique-paths) |
+| [2929-distribute-candies-among-children-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/2929-distribute-candies-among-children-ii) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Backtracking
 |  |
