@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Epicguest97/leetcode_daily/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Epicguest97/leetcode_daily/tree/master/0860-lemonade-change) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/Epicguest97/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
