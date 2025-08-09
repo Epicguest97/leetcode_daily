@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Epicguest97/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/1922-count-good-numbers) |
 | [2081-sum-of-k-mirror-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/2081-sum-of-k-mirror-numbers) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Epicguest97/leetcode_daily/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Epicguest97/leetcode_daily/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
