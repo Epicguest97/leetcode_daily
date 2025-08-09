@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Epicguest97/leetcode_daily/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Epicguest97/leetcode_daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0386-lexicographical-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Epicguest97/leetcode_daily/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Epicguest97/leetcode_daily/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Epicguest97/leetcode_daily/tree/master/0572-subtree-of-another-tree) |
@@ -448,5 +449,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Epicguest97/leetcode_daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
