@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Epicguest97/leetcode_daily/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1539-kth-missing-positive-number](https://github.com/Epicguest97/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Epicguest97/leetcode_daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 ## Sorting
 |  |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Epicguest97/leetcode_daily/tree/master/0547-number-of-provinces) |
+## Design
+|  |
+| ------- |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/1865-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
