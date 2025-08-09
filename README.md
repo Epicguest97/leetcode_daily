@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Epicguest97/leetcode_daily/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Epicguest97/leetcode_daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search Tree
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Epicguest97/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Epicguest97/leetcode_daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Memoization
 |  |
 | ------- |
