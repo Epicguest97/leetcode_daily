@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Epicguest97/leetcode_daily/tree/master/0152-maximum-product-subarray) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Epicguest97/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Epicguest97/leetcode_daily/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0120-triangle) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Epicguest97/leetcode_daily/tree/master/0994-rotting-oranges) |
