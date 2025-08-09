@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Epicguest97/leetcode_daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Epicguest97/leetcode_daily/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2683-neighboring-bitwise-xor](https://github.com/Epicguest97/leetcode_daily/tree/master/2683-neighboring-bitwise-xor) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2683-neighboring-bitwise-xor](https://github.com/Epicguest97/leetcode_daily/tree/master/2683-neighboring-bitwise-xor) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3355-zero-array-transformation-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3355-zero-array-transformation-i) |
