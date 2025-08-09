@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Epicguest97/leetcode_daily/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Epicguest97/leetcode_daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Epicguest97/leetcode_daily/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Epicguest97/leetcode_daily/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Epicguest97/leetcode_daily/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0064-minimum-path-sum) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Epicguest97/leetcode_daily/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Epicguest97/leetcode_daily/tree/master/0067-add-binary) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Epicguest97/leetcode_daily/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Epicguest97/leetcode_daily/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
