@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Epicguest97/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Epicguest97/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Epicguest97/leetcode_daily/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Epicguest97/leetcode_daily/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Epicguest97/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Epicguest97/leetcode_daily/tree/master/0994-rotting-oranges) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Epicguest97/leetcode_daily/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Epicguest97/leetcode_daily/tree/master/0547-number-of-provinces) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Epicguest97/leetcode_daily/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 ## Design
 |  |
 | ------- |
