@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Epicguest97/leetcode_daily/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Epicguest97/leetcode_daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Epicguest97/leetcode_daily/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Epicguest97/leetcode_daily/tree/master/0231-power-of-two) |
 | [0808-soup-servings](https://github.com/Epicguest97/leetcode_daily/tree/master/0808-soup-servings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Epicguest97/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Epicguest97/leetcode_daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Epicguest97/leetcode_daily/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Epicguest97/leetcode_daily/tree/master/0152-maximum-product-subarray) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Epicguest97/leetcode_daily/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Heap (Priority Queue)
