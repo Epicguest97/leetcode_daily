@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Epicguest97/leetcode_daily/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Epicguest97/leetcode_daily/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2429-minimize-xor](https://github.com/Epicguest97/leetcode_daily/tree/master/2429-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/Epicguest97/leetcode_daily/tree/master/2529-range-product-queries-of-powers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/Epicguest97/leetcode_daily/tree/master/2683-neighboring-bitwise-xor) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Epicguest97/leetcode_daily/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2529-range-product-queries-of-powers](https://github.com/Epicguest97/leetcode_daily/tree/master/2529-range-product-queries-of-powers) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Epicguest97/leetcode_daily/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Epicguest97/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Epicguest97/leetcode_daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-count-the-hidden-sequences](https://github.com/Epicguest97/leetcode_daily/tree/master/2145-count-the-hidden-sequences) |
+| [2529-range-product-queries-of-powers](https://github.com/Epicguest97/leetcode_daily/tree/master/2529-range-product-queries-of-powers) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3333-find-the-original-typed-string-ii) |
 | [3355-zero-array-transformation-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3355-zero-array-transformation-i) |
 | [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
