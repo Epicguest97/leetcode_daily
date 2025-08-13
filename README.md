@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Epicguest97/leetcode_daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Epicguest97/leetcode_daily/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/Epicguest97/leetcode_daily/tree/master/0781-rabbits-in-forest) |
 | [0808-soup-servings](https://github.com/Epicguest97/leetcode_daily/tree/master/0808-soup-servings) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Epicguest97/leetcode_daily/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Epicguest97/leetcode_daily/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Epicguest97/leetcode_daily/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Epicguest97/leetcode_daily/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
