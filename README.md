@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Epicguest97/leetcode_daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Epicguest97/leetcode_daily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
