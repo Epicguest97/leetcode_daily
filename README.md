@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Epicguest97/leetcode_daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Epicguest97/leetcode_daily/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0509-fibonacci-number) |
+| [0679-24-game](https://github.com/Epicguest97/leetcode_daily/tree/master/0679-24-game) |
 | [0781-rabbits-in-forest](https://github.com/Epicguest97/leetcode_daily/tree/master/0781-rabbits-in-forest) |
 | [0808-soup-servings](https://github.com/Epicguest97/leetcode_daily/tree/master/0808-soup-servings) |
 | [0867-new-21-game](https://github.com/Epicguest97/leetcode_daily/tree/master/0867-new-21-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Epicguest97/leetcode_daily/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Epicguest97/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Epicguest97/leetcode_daily/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/Epicguest97/leetcode_daily/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
 | [0781-rabbits-in-forest](https://github.com/Epicguest97/leetcode_daily/tree/master/0781-rabbits-in-forest) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Epicguest97/leetcode_daily/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/0126-word-ladder-ii) |
+| [0679-24-game](https://github.com/Epicguest97/leetcode_daily/tree/master/0679-24-game) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Queue
 |  |
