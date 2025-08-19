@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Epicguest97/leetcode_daily/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/1922-count-good-numbers) |
 | [2081-sum-of-k-mirror-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/2081-sum-of-k-mirror-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Epicguest97/leetcode_daily/tree/master/2481-strictly-palindromic-number) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Epicguest97/leetcode_daily/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Epicguest97/leetcode_daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Epicguest97/leetcode_daily/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/Epicguest97/leetcode_daily/tree/master/2529-range-product-queries-of-powers) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Epicguest97/leetcode_daily/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
