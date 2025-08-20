@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Epicguest97/leetcode_daily/tree/master/0867-new-21-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/1143-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Epicguest97/leetcode_daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Epicguest97/leetcode_daily/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Epicguest97/leetcode_daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Epicguest97/leetcode_daily/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Epicguest97/leetcode_daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-string-matching-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1408-string-matching-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Epicguest97/leetcode_daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/Epicguest97/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Epicguest97/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Epicguest97/leetcode_daily/tree/master/1073-number-of-enclaves) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Epicguest97/leetcode_daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Union Find
 |  |
 | ------- |
