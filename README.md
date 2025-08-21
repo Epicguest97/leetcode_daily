@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1408-string-matching-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Epicguest97/leetcode_daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/Epicguest97/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Epicguest97/leetcode_daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Epicguest97/leetcode_daily/tree/master/1628-count-submatrices-with-all-ones) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Epicguest97/leetcode_daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Epicguest97/leetcode_daily/tree/master/0907-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Epicguest97/leetcode_daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Epicguest97/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Epicguest97/leetcode_daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
