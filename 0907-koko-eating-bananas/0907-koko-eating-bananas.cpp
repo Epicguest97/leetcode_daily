@@ -15,7 +15,8 @@ private:
     bool canfinish(int mid,vector<int>&piles,int h){
         int sum=0;
         for(int i=0;i<piles.size();i++){
-            sum+=(piles[i]+mid-1)/mid;
+            sum+=(piles[i])/mid;
+            if(piles[i]%mid!=0)sum++;
         }
         return sum<=h;
     }
