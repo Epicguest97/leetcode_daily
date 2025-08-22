@@ -19,7 +19,8 @@ private:
     bool okay(const vector<int>& nums, int threshold, int mid) {
         long long sum = 0; 
         for (int num : nums) {
-            sum += (num + mid - 1) / mid; 
+            sum += num/ mid; 
+            if(num%mid!=0)sum++;
             if (sum > threshold) return false; 
         }
         return sum <= threshold;
