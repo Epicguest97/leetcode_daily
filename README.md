@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Epicguest97/leetcode_daily/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## String
 |  |
 | ------- |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Epicguest97/leetcode_daily/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Epicguest97/leetcode_daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Epicguest97/leetcode_daily/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Union Find
 |  |
 | ------- |
