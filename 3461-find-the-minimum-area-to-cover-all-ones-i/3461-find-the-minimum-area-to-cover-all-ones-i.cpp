@@ -3,10 +3,10 @@ public:
     int minimumArea(vector<vector<int>>& grid) {
         int m=grid.size();
         int n=grid[0].size();
-        int minix=INT_MAX;
-        int miniy=INT_MAX;
-        int maxix=INT_MIN;
-        int maxiy=INT_MIN;
+        int minix=m;
+        int miniy=n;
+        int maxix=-1;
+        int maxiy=-1;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==1){
