@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Epicguest97/leetcode_daily/tree/master/0909-snakes-and-ladders) |
 | [0916-word-subsets](https://github.com/Epicguest97/leetcode_daily/tree/master/0916-word-subsets) |
 | [0931-minimum-falling-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0966-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Epicguest97/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Epicguest97/leetcode_daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Epicguest97/leetcode_daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Epicguest97/leetcode_daily/tree/master/0781-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Epicguest97/leetcode_daily/tree/master/0900-reordered-power-of-2) |
 | [0916-word-subsets](https://github.com/Epicguest97/leetcode_daily/tree/master/0916-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Epicguest97/leetcode_daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/Epicguest97/leetcode_daily/tree/master/1400-construct-k-palindrome-strings) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Epicguest97/leetcode_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Epicguest97/leetcode_daily/tree/master/0867-new-21-game) |
+| [0966-binary-subarrays-with-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Epicguest97/leetcode_daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Epicguest97/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Epicguest97/leetcode_daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-count-the-hidden-sequences](https://github.com/Epicguest97/leetcode_daily/tree/master/2145-count-the-hidden-sequences) |
 | [2529-range-product-queries-of-powers](https://github.com/Epicguest97/leetcode_daily/tree/master/2529-range-product-queries-of-powers) |
