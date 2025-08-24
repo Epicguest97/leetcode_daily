@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Epicguest97/leetcode_daily/tree/master/2481-strictly-palindromic-number) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Epicguest97/leetcode_daily/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Epicguest97/leetcode_daily/tree/master/2679-count-distinct-numbers-on-board) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/2929-distribute-candies-among-children-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Epicguest97/leetcode_daily/tree/master/2679-count-distinct-numbers-on-board) |
 | [2683-neighboring-bitwise-xor](https://github.com/Epicguest97/leetcode_daily/tree/master/2683-neighboring-bitwise-xor) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Epicguest97/leetcode_daily/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Epicguest97/leetcode_daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Epicguest97/leetcode_daily/tree/master/2679-count-distinct-numbers-on-board) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Epicguest97/leetcode_daily/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Epicguest97/leetcode_daily/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Epicguest97/leetcode_daily/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Epicguest97/leetcode_daily/tree/master/2679-count-distinct-numbers-on-board) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
