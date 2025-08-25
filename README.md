@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Epicguest97/leetcode_daily/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Epicguest97/leetcode_daily/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Epicguest97/leetcode_daily/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Epicguest97/leetcode_daily/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Epicguest97/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Epicguest97/leetcode_daily/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Epicguest97/leetcode_daily/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/Epicguest97/leetcode_daily/tree/master/0498-diagonal-traverse) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Epicguest97/leetcode_daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Epicguest97/leetcode_daily/tree/master/2402-meeting-rooms-iii) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Epicguest97/leetcode_daily/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Epicguest97/leetcode_daily/tree/master/0130-surrounded-regions) |
+| [0498-diagonal-traverse](https://github.com/Epicguest97/leetcode_daily/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Epicguest97/leetcode_daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Epicguest97/leetcode_daily/tree/master/0733-flood-fill) |
 | [0909-snakes-and-ladders](https://github.com/Epicguest97/leetcode_daily/tree/master/0909-snakes-and-ladders) |
