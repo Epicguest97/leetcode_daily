@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Epicguest97/leetcode_daily/tree/master/1408-string-matching-in-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Epicguest97/leetcode_daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Epicguest97/leetcode_daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Epicguest97/leetcode_daily/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/Epicguest97/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Epicguest97/leetcode_daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Epicguest97/leetcode_daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
