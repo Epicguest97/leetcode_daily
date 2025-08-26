@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Epicguest97/leetcode_daily/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Epicguest97/leetcode_daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Epicguest97/leetcode_daily/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Epicguest97/leetcode_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Epicguest97/leetcode_daily/tree/master/0796-rotate-string) |
 | [0916-word-subsets](https://github.com/Epicguest97/leetcode_daily/tree/master/0916-word-subsets) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Epicguest97/leetcode_daily/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Epicguest97/leetcode_daily/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Epicguest97/leetcode_daily/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Epicguest97/leetcode_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Epicguest97/leetcode_daily/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Epicguest97/leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Epicguest97/leetcode_daily/tree/master/0876-middle-of-the-linked-list) |
