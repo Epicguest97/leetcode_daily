@@ -10,8 +10,6 @@ public:
             int min_height = min(height[left], height[right]);
             int current_area = width * min_height;
             max_area = max(max_area, current_area);
-
-            // Move the pointer pointing to the shorter line
             if (height[left] < height[right]) {
                 left++;
             } else {
