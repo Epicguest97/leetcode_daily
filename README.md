@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Epicguest97/leetcode_daily/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3333-find-the-original-typed-string-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Epicguest97/leetcode_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Epicguest97/leetcode_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## String
 |  |
 | ------- |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Epicguest97/leetcode_daily/tree/master/0509-fibonacci-number) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Epicguest97/leetcode_daily/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Epicguest97/leetcode_daily/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Epicguest97/leetcode_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Epicguest97/leetcode_daily/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Epicguest97/leetcode_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Union Find
 |  |
 | ------- |
