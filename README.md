@@ -843,4 +843,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Epicguest97/leetcode_daily/tree/master/0789-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Epicguest97/leetcode_daily/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
