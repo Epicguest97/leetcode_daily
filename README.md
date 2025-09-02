@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/2929-distribute-candies-among-children-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Epicguest97/leetcode_daily/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Epicguest97/leetcode_daily/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3355-zero-array-transformation-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3355-zero-array-transformation-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Epicguest97/leetcode_daily/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Epicguest97/leetcode_daily/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Epicguest97/leetcode_daily/tree/master/3748-sort-matrix-by-diagonals) |
 ## Tree
 |  |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Epicguest97/leetcode_daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2081-sum-of-k-mirror-numbers](https://github.com/Epicguest97/leetcode_daily/tree/master/2081-sum-of-k-mirror-numbers) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/2929-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -857,4 +861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Epicguest97/leetcode_daily/tree/master/0177-nth-highest-salary) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
