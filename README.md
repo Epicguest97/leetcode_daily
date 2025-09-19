@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Epicguest97/leetcode_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Epicguest97/leetcode_daily/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Epicguest97/leetcode_daily/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Epicguest97/leetcode_daily/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/Epicguest97/leetcode_daily/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/Epicguest97/leetcode_daily/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Epicguest97/leetcode_daily/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/Epicguest97/leetcode_daily/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
 | ------- |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Epicguest97/leetcode_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Epicguest97/leetcode_daily/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Epicguest97/leetcode_daily/tree/master/3797-design-spreadsheet) |
 ## Union Find
 |  |
 | ------- |
@@ -792,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Epicguest97/leetcode_daily/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Epicguest97/leetcode_daily/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Epicguest97/leetcode_daily/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [3797-design-spreadsheet](https://github.com/Epicguest97/leetcode_daily/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
