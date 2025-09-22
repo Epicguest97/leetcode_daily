@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Epicguest97/leetcode_daily/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Epicguest97/leetcode_daily/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Epicguest97/leetcode_daily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Epicguest97/leetcode_daily/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Epicguest97/leetcode_daily/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Epicguest97/leetcode_daily/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/Epicguest97/leetcode_daily/tree/master/3797-design-spreadsheet) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Epicguest97/leetcode_daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Epicguest97/leetcode_daily/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Epicguest97/leetcode_daily/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Epicguest97/leetcode_daily/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Epicguest97/leetcode_daily/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Epicguest97/leetcode_daily/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
